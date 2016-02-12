@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./deapolloniirhod00apolgoog_0097.png"; bbox 0 0 2975 4392; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1422 344 2667 650">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1422 344 2667 650">
+     <span class='ocr_line' id='line_1_1' title="bbox 1850 344 2435 464; baseline 0.015 -9"><span class='ocrx_word' id='word_1_1' title='bbox 1850 344 1985 455; x_wconf 73' lang='grc' dir='ltr'>ΥΒ</span> <span class='ocrx_word' id='word_1_2' title='bbox 2067 351 2435 464; x_wconf 75' lang='grc'>00323</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 1422 574 2667 650; baseline -0.003 0"><span class='ocrx_word' id='word_1_3' title='bbox 1422 576 1736 650; x_wconf 61' lang='lat' dir='ltr'>statuat</span> <span class='ocrx_word' id='word_1_4' title='bbox 1781 575 2119 649; x_wconf 66' lang='lat' dir='ltr'>nunnu-</span> <span class='ocrx_word' id='word_1_5' title='bbox 2144 576 2274 650; x_wconf 50' lang='grc' dir='ltr'>ΗΠΒ</span> <span class='ocrx_word' id='word_1_6' title='bbox 2312 574 2667 648; x_wconf 74' lang='grc' dir='ltr'><strong>ΒΕΙΙΚΕῑΕΥ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1722 987 2314 1062">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1722 987 2314 1062">
+     <span class='ocr_line' id='line_1_3' title="bbox 1722 987 2314 1062; baseline 0.003 -3"><span class='ocrx_word' id='word_1_7' title='bbox 1722 987 2314 1062; x_wconf 63' lang='grc' dir='ltr'>ΒΕΙΠΠῬῬΙΞΜΒ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 2754 396 2964 1344">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 2754 396 2964 1344">
+     <span class='ocr_line' id='line_1_4' title="bbox 2754 396 2964 1344; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 2754 396 2964 1344; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1189 2126 1561 2214">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1189 2126 1601 2214">
+     <span class='ocr_line' id='line_1_5' title="bbox 1189 2126 1561 2214; baseline -0.01 0"><span class='ocrx_word' id='word_1_9' title='bbox 1189 2130 1213 2214; x_wconf 80' lang='grc'>1,</span> <span class='ocrx_word' id='word_1_10' title='bbox 1249 2126 1561 2210; x_wconf 58' lang='lat' dir='ltr'>Usi-11⁵¹·</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 1250 3830 2208 4338">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 1250 3830 2208 4338">
+     <span class='ocr_line' id='line_1_6' title="bbox 1250 3830 2208 4338; baseline 0 54"><span class='ocrx_word' id='word_1_11' title='bbox 1250 3830 2208 4338; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
